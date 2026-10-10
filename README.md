@@ -18,7 +18,7 @@
 I’m not a programmer, builder, or engineer and I have no intention of committing the rather ambitious mistake of pretending to be one. I’m a self-taught person who enjoys understanding how things work, **when curiosity strikes, when I feel like it, or simply when I happen to be in the mood to make life unnecessarily complicated.**
 
 My method is remarkably simple:
-**read the manual → study the documentation → understand the basics → try it myself**
+**read the manual → study the documentation → understand the basics → try it myself.**
 
 If it works, I am pleasantly surprised. If it doesn’t, I investigate. I try again. It fails again. Eventually, after exhausting both the machine and what remains of my patience, I resort to the oldest troubleshooting technique known to mankind: **sleep!.** Tomorrow, naturally, I try again as though yesterday’s failure had taught me something profound, which, on certain occasions, it very clearly did not.
 
