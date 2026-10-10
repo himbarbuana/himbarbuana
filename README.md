@@ -4,7 +4,7 @@
 
 # Muhammad Himbar Buana
 
-### Curious Self-Taught Tinkerer
+### Curious Self Taught Tinkerer
 
 **Curious by nature. Self taught by necessity.**  
 *I read the manual, break things, and pretend I know what I’m doing.*
